@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey there! 👋 I'm Abira
 
-<!--
-**Abira-2812/Abira-2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Student | Aspiring Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student exploring the world of technology, Artificial Intelligence, and programming. Currently, I'm learning Python and building my foundation in AI & Data Science.
+
+###  Currently Learning
+-  Python Programming
+-  Artificial Intelligence
+-  Data Science
+-  Web Development
+-  Git & GitHub
+
+###  My Goals
+- Build real-world programming projects.
+- Improve my problem-solving skills.
+- Explore AI and Machine Learning.
+- Become a skilled AI Developer.
+
+###  Technologies & Tools
+- Python
+- HTML
+- CSS
+- JavaScript
+- VS Code
+- Git & GitHub
+
+###  My Learning Philosophy
+
+"Learning never stops. Every line of code brings me one step closer to my goals."
+
+###  A Little About Me
+-  Student
+-  Curious about AI
+-  Python learner
+-  Always ready to explore something new!
+
+---
+
+⭐ Thanks for visiting my profile! Let's learn and build together.
